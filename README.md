@@ -61,3 +61,36 @@ You need:
 
 ```bash
 git clone https://github.com/TheRedCreator/Pong.git
+```
+
+Open the project in your C++ editor
+Make sure the Resources folder is in the correct location:
+
+```
+Pong/
+│
+├── main.cpp
+├── Resources/
+│   ├── Music.wav
+│   ├── Win.wav
+│   ├── Fail.wav
+│   └── Bounce.wav
+│
+└── README.md
+
+```
+Compile and run the game
+```
+🎮 Controls
+Key	Action
+↑ Up Arrow	Move paddle up
+↓ Down Arrow	Move paddle down
+```
+
+📚 Project Status
+
+✅ Finished beginner project
+
+This is part of my journey learning game development with Raylib and C++.
+
+More projects coming soon!
