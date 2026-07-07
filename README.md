@@ -43,10 +43,6 @@ While making this project, I practiced:
 - Playing sounds and music
 - Organizing a small game project
 
-## 📸 Screenshots
-
-(Add screenshots here)
-
 ## 🚀 How To Run
 
 ### Requirements
